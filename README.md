@@ -1,4 +1,23 @@
 # AISOC 2025
+Team members 
+Member 1: Apoorva
+(apurvaadhanda21@gmail.com)
+Member 2: Riddhima
+(riddhimajaiswal607@gmail.com)
+
+Project Title
+On-Device Speech-to-text Models for Low-Latency Applications
+
+Alloted Problem Statement:
+In day-to-day student life, we often come across moments when we want to quickly record important thoughts, to-do lists, meeting takeaways, or lecture points. Typing everything instantly isn't always possible, especially during live discussions or when we're on the go.
+Most speech-to-text systems today depend on internet-based APIs, which makes them less reliable in low-connectivity environments — especially for students who may not always have stable access. There's also the concern of privacy when using cloud services to transcribe personal or academic content.
+
+This project aims to build a simple, offline speech-to-text app that allows users to:
+Record short lecture notes
+Transcribe important points from group or club meetings
+Create a spoken checklist for daily goals
+Capture quick thoughts or reminders
+The webapp will support English, Hindi, and mixed-language input, and will be built using lightweight open-source STT models like Whisper (Tiny/Base), Vosk, and potentially newer or alternate models like Coqui STT depending on feasibility.
 
 ## ⚙️ Guidelines
 
