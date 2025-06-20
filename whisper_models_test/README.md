@@ -30,3 +30,5 @@ NOW...HOW TO USE IT
 3) run the code and check : trancription,response time,WER etc
 
 thats it..DONE
+
+I have also uploaded the screenshots of outputs of these models,you can directly refer them too..
