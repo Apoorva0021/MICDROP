@@ -21,4 +21,9 @@ pip install torch
 pip install ffmpeg-python
 pip install jiwer
 
-thats it..
+NOW...HOW TO USE IT
+1) download audio files that you want to trancribe,
+2) replace the audio path according to your audio file p[ath
+3) run the code and check : trancription,response time,WER etc
+
+thats it..DONE
