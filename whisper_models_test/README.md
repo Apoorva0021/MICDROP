@@ -17,8 +17,11 @@ actually you will need to change it to your own audio filepath if you want to te
 
 WHAT YOU WILL NEED:
 pip install git+https://github.com/openai/whisper.git
+
 pip install torch
+
 pip install ffmpeg-python
+
 pip install jiwer
 
 NOW...HOW TO USE IT
